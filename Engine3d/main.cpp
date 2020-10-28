@@ -32,7 +32,6 @@ void KeyboardGL(unsigned char c, int x, int y);
 void KeyboardUpGL(unsigned char c, int x, int y);
 void MotionGL(int x, int y);
 void ReshapeGL(int w, int h);
-
 void DrawCube();
 // Rotation parameters
 float mouse_x = 0.0f;
