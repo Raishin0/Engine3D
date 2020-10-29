@@ -1,5 +1,7 @@
 #define _USE_MATH_DEFINES
 #include <GL/freeglut.h>
+#define GLEW_STATIC
+#include <gl/glew.h>
 #include <math.h>
 #include <iostream>
 #include <ctime>
